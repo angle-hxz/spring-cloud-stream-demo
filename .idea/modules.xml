@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-stream-demo-input/spring-cloud-stream-demo-input.iml" filepath="$PROJECT_DIR$/spring-cloud-stream-demo-input/spring-cloud-stream-demo-input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-stream-demo-output/spring-cloud-stream-demo-output.iml" filepath="$PROJECT_DIR$/spring-cloud-stream-demo-output/spring-cloud-stream-demo-output.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user/user.iml" filepath="$PROJECT_DIR$/user/user.iml" />
+    </modules>
+  </component>
+</project>
